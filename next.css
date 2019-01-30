@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body{
+  background-image: url('https://images.pexels.com/photos/314703/pexels-photo-314703.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+font-family: 'Montserrat';
+background-size:cover;
+background-repeat:no-repeat;
+background-position: center center;
+}
+
+input[type=text],input[type=file]{
+  border-radius: 10px;
+  border-style: solid;
+}
+
+input[type=submit]{
+  border: none;
+
+}

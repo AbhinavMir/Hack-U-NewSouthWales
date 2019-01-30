@@ -1,0 +1,12 @@
+﻿id,dur,med,gender,cpain,bless,tcline,emed,hist,toc,sputumr,sputum,xray,cid
+0,4,NO,Male,No,No,2,c,b,blood,0,,,2
+1,4,NO,Female,No,Yes,4,a,e,dry,1,,,44
+2,8,Yes,Female,Yes,No,1,a,a,wet,0,,,765
+3,4,No,Male,Yes,No,3,c,c,dry,1,,,456
+4,8,No,Female,No,Yes,4,a,a,wet,0,,,34
+5,8,No,Male,No,Yes,3,b,a,dry,0,,,846
+6,8,Yes,Male,Yes,No,1,c,c,wet,1,,,75
+7,4,No,Male,Yes,Yes,3,a,a,dry,0,,,5
+8,4,Yes,Female,No,Yes,4,b,a,wet,1,,,57
+9,1,Yes,Female,No,No,3,b,c,blood,1,,,900
+10,1,No,Male,Yes,Yes,4,e,a,wet,1,,,57
